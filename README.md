@@ -1,2 +1,1 @@
-# Hellow-world
-the first project
+加油
